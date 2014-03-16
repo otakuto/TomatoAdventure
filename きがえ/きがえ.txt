@@ -1,0 +1,9 @@
+ビニールシャツ
+62 37 1B 4D 2C 6C 33 00|05 00|0A 00|01|00 00 00
+NN NN NN NN NN NN NN NN|DD DD|PP PP|UU|SS
+16Byte
+NN 名前
+DD 防御力
+PP 買うときの値段
+UU 着れる人
+SS 特殊効果コード
